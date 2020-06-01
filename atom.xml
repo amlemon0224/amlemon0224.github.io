@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://amlemon0224.github.io/"/>
-  <updated>2020-05-31T15:52:10.022Z</updated>
+  <updated>2020-05-31T18:45:00.908Z</updated>
   <id>https://amlemon0224.github.io/</id>
   
   <author>
@@ -15,6 +15,21 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试文章</title>
+    <link href="https://amlemon0224.github.io/2020/06/01/ce-shi-wen-zhang/"/>
+    <id>https://amlemon0224.github.io/2020/06/01/ce-shi-wen-zhang/</id>
+    <published>2020-05-31T18:45:00.000Z</published>
+    <updated>2020-05-31T18:45:00.908Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
